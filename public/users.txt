@@ -1,0 +1,59 @@
+User: Oleg,   Phone: (917) 860-92-36,   Date and time: 15.09.19. at 13:00
+User: Oleg,   Phone: +79178609236,   Date and time: 15.09.19. at 13:00
+User: Oleg,   Phone: (917) 860-92-36,   Date and time: 19.09.19 at 10:40
+User: Oleg,   Phone: (917) 860-92-36,   Date and time: 15.09.19. at 13:00,   Specialist: 
+User: Oleg,   Phone: +79178609236,   Date and time: 15.09.19. at 13:00,   Specialist: Walter White
+User: Oleg,   Phone: +79178609236,   Date and time: 15.09.19. at 13:00,   Specialist: Gus Fring
+User: Евгений,   Phone: 5555555555,   Date and time: 19.09.19 at 10:40,   Specialist: Jessie Pinkman
+User: Oleg,   Phone: (917) 860-92-36,   Date and time: 15.09.19. at 13:00,   Specialist: Walter White
+User: Oleg,   Phone: +79178609236,   Date and time: 19.09.19 at 10:40,   Specialist: Walter White,   Color: 
+User: qqq,   Phone: 3333333,   Date and time: 22:44,   Specialist: Gus Fring,   Color: #5484ed
+User: Oleg,   Phone: 111222,   Date and time: 77:77,   Specialist: Walter White,   Color: #dbadff
+User: Oleg,   Phone: 5556666777,   Date and time: 11:55,   Specialist: none,   Color: #51b749
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: aaaa,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: +79178609236,   Date and time: 15.09.19. at 13:00,   Specialist: Jessie Pinkman,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: +79178609236,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: 15.09.19. at 13:00,   Specialist: none,   Color: #7bd148
+User: ,   Phone: +79178609236,   Date and time: 15.09.19. at 13:00,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: ,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: Oleg,   Phone: ,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: Oleg,   Phone: +79178609236,   Date and time: ,   Specialist: none,   Color: #7bd148
+User: Oleg,   Phone: +79178609236,   Date and time: 15.09.19. at 13:00,   Specialist: none,   Color: #7bd148
+User: Oleg,   Phone: +79178609236,   Date and time: 15.09.19. at 13:00,   Specialist: none,   Color: #7bd148
+User: Oleg,   Phone: +79178609236,   Date and time: 15.09.19. at 13:00,   Specialist: none,   Color: #7bd148
+User: Oleg,   Phone: +79178609236,   Date and time: 15.09.19. at 13:00,   Specialist: none,   Color: #7bd148
+User: Oleg,   Phone: (917) 860-92-36,   Date and time: 15.09.19. at 13:00,   Specialist: ,   Color: #7bd148
+User: Oleg,   Phone: +79178609236,   Date and time: 15.09.19. at 13:00,   Specialist: Walter White,   Color: #51b749
+User: Oleg,   Phone: +79178609236,   Date and time: 15.09.19. at 13:00,   Specialist: ,   Color: #7bd148
+User: Oleg,   Phone: (917) 860-92-36,   Date and time: 15.09.19. at 13:00,   Specialist: ,   Color: #7bd148
+User: Oleg,   Phone: +79178609236,   Date and time: 15.09.19. at 13:00,   Specialist: Walter White,   Color: #7bd148
+User: Oleg,   Phone: +79178609236,   Date and time: 15.09.19. at 13:00,   Specialist: ,   Color: #7bd148
